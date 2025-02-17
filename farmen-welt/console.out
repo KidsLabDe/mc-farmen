@@ -1,0 +1,440 @@
+Starting net.minecraft.server.Main
+[14:03:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:03:01] [ServerMain/INFO]: Loaded 1290 recipes
+[14:03:01] [ServerMain/INFO]: Loaded 1399 advancements
+[14:03:01] [Server thread/INFO]: Starting minecraft server version 1.21
+[14:03:01] [Server thread/INFO]: Loading properties
+[14:03:01] [Server thread/INFO]: Default game type: SPECTATOR
+[14:03:01] [Server thread/INFO]: Generating keypair
+[14:03:02] [Server thread/INFO]: Starting Minecraft server on *:23003
+[14:03:02] [Server thread/INFO]: Using epoll channel type
+[14:03:02] [Server thread/INFO]: Preparing level "farmen"
+[14:03:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:03:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:03:03] [Server thread/INFO]: Time elapsed: 309 ms
+[14:03:03] [Server thread/INFO]: Done (1.142s)! For help, type "help"
+[14:03:03] [Server thread/INFO]: Starting GS4 status listener
+[14:03:03] [Server thread/INFO]: Thread Query Listener started
+[14:03:03] [Query Listener #1/INFO]: Query running on 0.0.0.0:23003
+[14:03:23] [User Authenticator #1/INFO]: UUID of player MatzE_ is 7b943811-4a8c-4c7a-9c30-8126833c5314
+[14:03:24] [Server thread/INFO]: MatzE_[/188.174.220.55:45896] logged in with entity id 41 at (-621.2476585499738, 111.74293160172489, -133.9159905136176)
+[14:03:24] [Server thread/INFO]: MatzE_ joined the game
+[14:03:53] [User Authenticator #2/INFO]: UUID of player EinStein_Giga is b3185531-a824-468b-a419-607a8d52bc8f
+[14:03:55] [Server thread/INFO]: EinStein_Giga[/188.174.220.55:57450] logged in with entity id 209 at (-596.1587904510818, 110.25864718907182, -128.61464923131177)
+[14:03:55] [Server thread/INFO]: EinStein_Giga joined the game
+[14:03:55] [User Authenticator #3/INFO]: UUID of player KidsLabJuliette is 235e9064-fa09-40f7-84e0-7c1df5a1f4c2
+[14:03:56] [Server thread/INFO]: KidsLabJuliette[/188.174.220.55:57582] logged in with entity id 212 at (-615.5, 110.0, -127.5)
+[14:03:56] [Server thread/INFO]: KidsLabJuliette joined the game
+[14:04:00] [Server thread/INFO]: [EinStein_Giga: Set own game mode to Creative Mode]
+[14:04:05] [Server thread/INFO]: KidsLabJuliette lost connection: Disconnected
+[14:04:05] [Server thread/INFO]: KidsLabJuliette left the game
+[14:05:12] [Server thread/INFO]: [EinStein_Giga: The game is sprinting]
+[14:05:37] [Server thread/INFO]: [EinStein_Giga: Set the time to 1000]
+[14:05:53] [Server thread/INFO]: Villager cmk['Villager'/5, l='ServerLevel[farmen]', x=-619.30, y=103.56, z=-137.70] died, message: 'Villager was killed'
+[14:05:53] [Server thread/INFO]: Villager cmk['Villager'/6, l='ServerLevel[farmen]', x=-620.69, y=103.56, z=-137.31] died, message: 'Villager was killed'
+[14:05:53] [Server thread/INFO]: Villager cmk['Villager'/7, l='ServerLevel[farmen]', x=-620.64, y=103.56, z=-136.30] died, message: 'Villager was killed'
+[14:05:53] [Server thread/INFO]: [MatzE_: Killed 3 entities]
+[14:05:59] [Server thread/INFO]: Sprint completed with 412 ticks per second, or 2.42 ms per tick
+[14:05:59] [Server thread/INFO]: [MatzE_: Interrupted the current tick sprint]
+[14:06:05] [Server thread/INFO]: [MatzE_: Set own game mode to Creative Mode]
+[14:06:53] [Server thread/INFO]: [EinStein_Giga: Gamerule randomTickSpeed is now set to: 1000]
+[14:06:59] [Server thread/INFO]: EinStein_Giga lost connection: Disconnected
+[14:06:59] [Server thread/INFO]: EinStein_Giga left the game
+[14:07:11] [Server thread/INFO]: [MatzE_: Set own game mode to Spectator Mode]
+[14:07:38] [Server thread/INFO]: [MatzE_: Set own game mode to Creative Mode]
+[14:07:48] [Server thread/INFO]: [MatzE_: Set own game mode to Spectator Mode]
+[14:08:05] [User Authenticator #4/INFO]: UUID of player EinStein_Giga is b3185531-a824-468b-a419-607a8d52bc8f
+[14:08:05] [Server thread/INFO]: MatzE_ lost connection: Disconnected
+[14:08:05] [Server thread/INFO]: MatzE_ left the game
+[14:08:07] [Server thread/INFO]: EinStein_Giga[/188.174.220.55:41700] logged in with entity id 3069 at (-594.8594469157428, 111.30447152312905, -120.01888038946086)
+[14:08:07] [Server thread/INFO]: EinStein_Giga joined the game
+[14:08:14] [Server thread/INFO]: [EinStein_Giga: Set own game mode to Creative Mode]
+[14:08:29] [Server thread/INFO]: [EinStein_Giga: The game is sprinting]
+[14:09:42] [Server thread/INFO]: [EinStein_Giga: Set the time to 1000]
+[14:22:47] [Server thread/INFO]: Sprint completed with 84 ticks per second, or 11.90 ms per tick
+[14:24:06] [User Authenticator #5/INFO]: UUID of player KidsLabMike is 6055c170-a16f-4891-8ccd-2df7c6523769
+[14:24:06] [Server thread/INFO]: KidsLabMike[/188.174.220.55:41946] logged in with entity id 9409 at (-615.5, 110.0, -127.5)
+[14:24:06] [Server thread/INFO]: KidsLabMike joined the game
+[14:24:37] [Server thread/INFO]: KidsLabMike lost connection: Disconnected
+[14:24:37] [Server thread/INFO]: KidsLabMike left the game
+[14:25:38] [Server thread/INFO]: [EinStein_Giga: Gamerule doDaylightCycle is now set to: false]
+[14:25:42] [Server thread/INFO]: [EinStein_Giga: Set the time to 1000]
+[14:26:03] [User Authenticator #6/INFO]: UUID of player Kidslab_Regine is ab8bf1ca-a80c-4b65-8b15-1e9df0cb58d2
+[14:26:04] [Server thread/INFO]: Kidslab_Regine[/188.174.220.55:42980] logged in with entity id 9652 at (-615.5, 110.0, -127.5)
+[14:26:04] [Server thread/INFO]: Kidslab_Regine joined the game
+[14:31:09] [User Authenticator #7/INFO]: UUID of player KidsLabHotel is 8405250b-de50-4db1-9c78-ed7a7962af4e
+[14:31:11] [Server thread/INFO]: KidsLabHotel[/188.174.220.55:44338] logged in with entity id 11844 at (-615.5, 110.0, -127.5)
+[14:31:11] [Server thread/INFO]: KidsLabHotel joined the game
+[14:31:28] [User Authenticator #8/INFO]: UUID of player KidsLabOskar is feb2e4a7-2806-40ca-b5ab-260faf9222de
+[14:31:30] [Server thread/INFO]: KidsLabOskar[/188.174.220.55:35308] logged in with entity id 12068 at (-615.5, 110.0, -127.5)
+[14:31:30] [Server thread/INFO]: KidsLabOskar joined the game
+[14:31:33] [User Authenticator #9/INFO]: UUID of player KidsLabOscar is 54918092-b4b6-4a9e-8ccc-ada79e1b0bee
+[14:31:33] [User Authenticator #10/INFO]: UUID of player KidsLabHotel is 8405250b-de50-4db1-9c78-ed7a7962af4e
+[14:31:33] [Server thread/INFO]: KidsLabHotel lost connection: You logged in from another location
+[14:31:33] [Server thread/INFO]: KidsLabHotel left the game
+[14:31:33] [Server thread/WARN]: handleDisconnection() called twice
+[14:31:34] [Server thread/INFO]: KidsLabOscar[/188.174.220.55:54054] logged in with entity id 12110 at (-615.5, 110.0, -127.5)
+[14:31:34] [Server thread/INFO]: KidsLabOscar joined the game
+[14:31:35] [Server thread/INFO]: KidsLabHotel[/188.174.220.55:49720] logged in with entity id 12113 at (-615.5, 110.0, -127.5)
+[14:31:35] [Server thread/INFO]: KidsLabHotel joined the game
+[14:32:06] [User Authenticator #11/INFO]: UUID of player KidsLabHotel is 8405250b-de50-4db1-9c78-ed7a7962af4e
+[14:32:06] [Server thread/INFO]: KidsLabHotel lost connection: You logged in from another location
+[14:32:06] [Server thread/INFO]: KidsLabHotel left the game
+[14:32:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f06c486[id=8405250b-de50-4db1-9c78-ed7a7962af4e,name=KidsLabHotel,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTczOTQ1MzUyNjM1OSwKICAicHJvZmlsZUlkIiA6ICI4NDA1MjUwYmRlNTA0ZGIxOWM3OGVkN2E3OTYyYWY0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLaWRzTGFiSG90ZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZhY2QwNmU4NDgzYjE3NmU4ZWEzOWZjMTJmZTEwNWViM2EyYTQ5NzBmNTEwMDA1N2U5ZDg0ZDRiNjBiZGZhNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9, signature=aakQwaBkKDv2u0M3ZhzZI/ICygFY0NQQufNsvFTAE9php072Tyxae4v8jEB5+QCkuWwf2waA14+dMoVXEgqA0pnsblaydZhhOjwqjv3wtP0b+twTBrzK+UYkdTce0w/Wtq1onMKSKtoauS0XqRVCPxmSfOPCvgSQpveuv2zWrYxoMwnTaEoTuDwauVcJ+bNCwsFALlO0cmlsL6oUc6gU22gAe/HH+310chn7oOJiCwWklupzehpgZgYu3SoxOvTlLiKrfQg67Keap3T3StR+4OO1oHVPNfjA9ZenQRyS8zdTSyiF2lNg9N9cRF4/fL0G++8VQWyxgrXnlFYF2ktfvpv7yEluKvbEX7ZiidGkj2aTY82jR8CuFyNdAnbrlNAy0g/onDIOZQnkCxxSq5wqIIKJnlJ90ca1yIUZNh7ZtV5/ul/1wctWCbJwxgGykACflUh+oMFv1Pseee0rR7EQ7D1qafT7uQ+0Aami4HDzoxITqXyZ1CSA1NQzvreRtpUDgcpmD3Ydju4wG0WcIfRBUKvIj6LbyN7c4bJREYqb/Ps0DvfPxXO/6/gU1prt7forJk7i1DMI0wE5pfcw8TZyDxnGOAXxupJw+Zl5NiTBfx5By2zOqjsdlhF9H+susTSqZCr2MRRvSfdghJjE/rmyzoee37a8cMwNLMFWdjW+Bak=]]}] lost connection: Disconnected
+[14:32:16] [User Authenticator #12/INFO]: UUID of player KidsLabHotel is 8405250b-de50-4db1-9c78-ed7a7962af4e
+[14:32:17] [Server thread/INFO]: KidsLabHotel[/188.174.220.55:43482] logged in with entity id 12393 at (-615.9499662680905, 110.0, -127.43217713359607)
+[14:32:17] [Server thread/INFO]: KidsLabHotel joined the game
+[14:32:31] [User Authenticator #13/INFO]: UUID of player KidsLabLima is 0aecdf65-0945-4624-aef1-2690fd1176f6
+[14:32:33] [Server thread/INFO]: KidsLabLima[/188.174.220.55:59936] logged in with entity id 12475 at (-615.5, 110.0, -127.5)
+[14:32:33] [Server thread/INFO]: KidsLabLima joined the game
+[14:32:37] [Server thread/INFO]: EinStein_Giga has made the advancement [Glow and Behold!]
+[14:32:39] [User Authenticator #14/INFO]: UUID of player KidsLabJuliette is 235e9064-fa09-40f7-84e0-7c1df5a1f4c2
+[14:32:40] [Server thread/INFO]: KidsLabJuliette[/188.174.220.55:50514] logged in with entity id 12522 at (-615.5, 109.61898803803285, -127.5)
+[14:32:40] [Server thread/INFO]: KidsLabJuliette joined the game
+[14:33:35] [Server thread/INFO]: KidsLabLima lost connection: Disconnected
+[14:33:35] [Server thread/INFO]: KidsLabLima left the game
+[14:33:37] [User Authenticator #15/INFO]: UUID of player KidsLabLima is 0aecdf65-0945-4624-aef1-2690fd1176f6
+[14:33:38] [Server thread/INFO]: KidsLabLima[/188.174.220.55:47284] logged in with entity id 12839 at (-597.7551304804616, 110.0, -108.11004503966511)
+[14:33:38] [Server thread/INFO]: KidsLabLima joined the game
+[14:33:58] [Server thread/INFO]: KidsLabOskar lost connection: Disconnected
+[14:33:58] [Server thread/INFO]: KidsLabOskar left the game
+[14:35:11] [Server thread/INFO]: KidsLabJuliette lost connection: Disconnected
+[14:35:11] [Server thread/INFO]: KidsLabJuliette left the game
+[14:37:15] [Server thread/INFO]: KidsLabLima lost connection: Disconnected
+[14:37:15] [Server thread/INFO]: KidsLabLima left the game
+[14:37:22] [User Authenticator #16/INFO]: UUID of player KidsLabLima is 0aecdf65-0945-4624-aef1-2690fd1176f6
+[14:37:23] [Server thread/INFO]: KidsLabOscar lost connection: Disconnected
+[14:37:23] [Server thread/INFO]: KidsLabOscar left the game
+[14:37:23] [Server thread/INFO]: KidsLabLima[/188.174.220.55:33012] logged in with entity id 13861 at (-537.8132766971788, 98.42499884806803, -156.09981914901564)
+[14:37:23] [Server thread/INFO]: KidsLabLima joined the game
+[14:37:57] [Server thread/INFO]: Kidslab_Regine lost connection: Disconnected
+[14:37:57] [Server thread/INFO]: Kidslab_Regine left the game
+[14:38:03] [Server thread/INFO]: KidsLabLima lost connection: Disconnected
+[14:38:03] [Server thread/INFO]: KidsLabLima left the game
+[14:39:28] [Server thread/INFO]: KidsLabHotel lost connection: Disconnected
+[14:39:28] [Server thread/INFO]: KidsLabHotel left the game
+[14:40:05] [User Authenticator #17/INFO]: UUID of player KidsLabHotel is 8405250b-de50-4db1-9c78-ed7a7962af4e
+[14:40:07] [Server thread/INFO]: KidsLabHotel[/188.174.220.55:58316] logged in with entity id 14167 at (-606.4667039401018, 112.35754029810046, -123.42923682583034)
+[14:40:07] [Server thread/INFO]: KidsLabHotel joined the game
+[14:43:05] [User Authenticator #18/INFO]: UUID of player Kidslab_Regine is ab8bf1ca-a80c-4b65-8b15-1e9df0cb58d2
+[14:43:06] [Server thread/INFO]: Kidslab_Regine[/188.174.220.55:49908] logged in with entity id 14718 at (-625.7612445198624, 109.6681686908142, -142.3672324517523)
+[14:43:06] [Server thread/INFO]: Kidslab_Regine joined the game
+[14:43:19] [Server thread/INFO]: Kidslab_Regine lost connection: Disconnected
+[14:43:19] [Server thread/INFO]: Kidslab_Regine left the game
+[14:43:28] [User Authenticator #19/INFO]: UUID of player KidsLabJuliette is 235e9064-fa09-40f7-84e0-7c1df5a1f4c2
+[14:43:29] [Server thread/INFO]: KidsLabJuliette[/188.174.220.55:33484] logged in with entity id 14787 at (-612.9315306359629, 105.48967605028602, -145.56652622708845)
+[14:43:29] [Server thread/INFO]: KidsLabJuliette joined the game
+[14:43:57] [User Authenticator #20/INFO]: UUID of player MatzE_ is 7b943811-4a8c-4c7a-9c30-8126833c5314
+[14:43:58] [Server thread/INFO]: MatzE_[/188.174.220.55:42066] logged in with entity id 14839 at (-621.550126571968, 115.92221230519075, -131.19649807651066)
+[14:43:58] [Server thread/INFO]: MatzE_ joined the game
+[14:46:56] [Server thread/INFO]: KidsLabJuliette lost connection: Disconnected
+[14:46:56] [Server thread/INFO]: KidsLabJuliette left the game
+[14:49:39] [Server thread/INFO]: [MatzE_: Set own game mode to Creative Mode]
+[14:50:52] [Server thread/WARN]: KidsLabHotel moved too quickly! -0.5541256639917265,0.0,-12.835896907345045
+[14:52:22] [Server thread/INFO]: KidsLabHotel lost connection: Disconnected
+[14:52:22] [Server thread/INFO]: KidsLabHotel left the game
+[14:52:22] [User Authenticator #21/INFO]: UUID of player KidsLabLima is 0aecdf65-0945-4624-aef1-2690fd1176f6
+[14:52:23] [Server thread/INFO]: KidsLabLima[/188.174.220.55:41578] logged in with entity id 17105 at (-610.9205916772177, 98.42499884806803, -163.10836473541696)
+[14:52:23] [Server thread/INFO]: KidsLabLima joined the game
+[14:53:37] [Server thread/INFO]: KidsLabLima lost connection: Disconnected
+[14:53:37] [Server thread/INFO]: KidsLabLima left the game
+[14:53:56] [User Authenticator #22/INFO]: UUID of player KidsLabJuliette is 235e9064-fa09-40f7-84e0-7c1df5a1f4c2
+[14:53:57] [Server thread/INFO]: KidsLabJuliette[/188.174.220.55:41712] logged in with entity id 17326 at (-619.215449409179, 102.505681858981, -148.81692458434694)
+[14:53:57] [Server thread/INFO]: KidsLabJuliette joined the game
+[14:55:06] [Server thread/INFO]: KidsLabJuliette lost connection: Disconnected
+[14:55:06] [Server thread/INFO]: KidsLabJuliette left the game
+[15:06:54] [User Authenticator #23/INFO]: UUID of player KidsLabLima is 0aecdf65-0945-4624-aef1-2690fd1176f6
+[15:06:55] [Server thread/INFO]: KidsLabLima[/188.174.220.55:33974] logged in with entity id 18661 at (-626.0671685700729, 108.17042531586233, -144.2214895994079)
+[15:06:55] [Server thread/INFO]: KidsLabLima joined the game
+[15:11:20] [User Authenticator #24/INFO]: UUID of player Kidslab_Regine is ab8bf1ca-a80c-4b65-8b15-1e9df0cb58d2
+[15:11:20] [Server thread/INFO]: Kidslab_Regine[/188.174.220.55:46908] logged in with entity id 19234 at (-626.3193406751715, 109.6681686908142, -140.297534397202)
+[15:11:21] [Server thread/INFO]: Kidslab_Regine joined the game
+[15:11:51] [Server thread/INFO]: Kidslab_Regine lost connection: Disconnected
+[15:11:51] [Server thread/INFO]: Kidslab_Regine left the game
+[15:12:40] [Server thread/INFO]: KidsLabLima lost connection: Disconnected
+[15:12:40] [Server thread/INFO]: KidsLabLima left the game
+[15:12:42] [User Authenticator #25/INFO]: UUID of player KidsLabLima is 0aecdf65-0945-4624-aef1-2690fd1176f6
+[15:12:43] [Server thread/INFO]: KidsLabLima[/188.174.220.55:44138] logged in with entity id 19386 at (-612.228089188763, 110.03508074558064, -113.37031448800306)
+[15:12:43] [Server thread/INFO]: KidsLabLima joined the game
+[15:13:26] [User Authenticator #26/INFO]: UUID of player KidsLabJuliette is 235e9064-fa09-40f7-84e0-7c1df5a1f4c2
+[15:13:26] [Server thread/INFO]: KidsLabJuliette[/188.174.220.55:53648] logged in with entity id 19462 at (-621.6564822807959, 102.505681858981, -134.4644864114301)
+[15:13:26] [Server thread/INFO]: KidsLabJuliette joined the game
+[15:14:05] [Server thread/INFO]: KidsLabJuliette lost connection: Disconnected
+[15:14:05] [Server thread/INFO]: KidsLabJuliette left the game
+[15:14:34] [Server thread/INFO]: KidsLabLima lost connection: Disconnected
+[15:14:34] [Server thread/INFO]: KidsLabLima left the game
+[15:14:41] [Server thread/INFO]: EinStein_Giga lost connection: Disconnected
+[15:14:41] [Server thread/INFO]: EinStein_Giga left the game
+[15:14:50] [User Authenticator #27/INFO]: UUID of player Kidslab_Regine is ab8bf1ca-a80c-4b65-8b15-1e9df0cb58d2
+[15:14:51] [Server thread/INFO]: Kidslab_Regine[/188.174.220.55:42766] logged in with entity id 19647 at (-618.60350352203, 107.05049513191766, -143.39035858136302)
+[15:14:51] [Server thread/INFO]: Kidslab_Regine joined the game
+[15:15:18] [Server thread/INFO]: Kidslab_Regine lost connection: Disconnected
+[15:15:18] [Server thread/INFO]: Kidslab_Regine left the game
+[15:29:11] [User Authenticator #28/INFO]: UUID of player KidsLabJuliette is 235e9064-fa09-40f7-84e0-7c1df5a1f4c2
+[15:29:11] [Server thread/INFO]: KidsLabJuliette[/188.174.220.55:49864] logged in with entity id 21078 at (-625.9489436059932, 102.87438331363188, -137.19277589363978)
+[15:29:11] [Server thread/INFO]: KidsLabJuliette joined the game
+[15:29:52] [Server thread/INFO]: KidsLabJuliette lost connection: Disconnected
+[15:29:52] [Server thread/INFO]: KidsLabJuliette left the game
+[16:02:51] [Server thread/INFO]: MatzE_ lost connection: Timed out
+[16:02:51] [Server thread/INFO]: MatzE_ left the game
+[09:37:51] [Server thread/INFO]: Kidslab_Regine (/188.174.221.216:58058) lost connection: Disconnected
+[10:21:09] [User Authenticator #29/INFO]: UUID of player KidsLabLima is 0aecdf65-0945-4624-aef1-2690fd1176f6
+[10:21:11] [Server thread/INFO]: KidsLabLima[/188.174.221.216:51456] logged in with entity id 24519 at (-597.5610115455406, 111.52825054567292, -121.70064054579602)
+[10:21:11] [Server thread/INFO]: KidsLabLima joined the game
+[10:22:06] [Server thread/INFO]: KidsLabLima lost connection: Disconnected
+[10:22:06] [Server thread/INFO]: KidsLabLima left the game
+[14:42:06] [Server thread/ERROR]: Could not save data cok@675f3553
+java.nio.file.AccessDeniedException: ./farmen/data/raids.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at uo.a(SourceFile:71) ~[server-1.21.jar:?]
+	at eql.a(SourceFile:46) ~[server-1.21.jar:?]
+	at eqz.b(SourceFile:127) ~[server-1.21.jar:?]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at eqz.a(SourceFile:125) ~[server-1.21.jar:?]
+	at aqu.av(SourceFile:833) ~[server-1.21.jar:?]
+	at aqu.a(SourceFile:815) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:556) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:580) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:924) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:697) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+ERROR StatusConsoleListener Unable to copy file /opt/mscs/worlds/farmen/logs/latest.log to /opt/mscs/worlds/farmen/logs/2025-02-15-1.log: java.nio.file.AccessDeniedException /opt/mscs/worlds/farmen/logs/2025-02-15-1.log
+ERROR StatusConsoleListener Unable to write to stream logs/latest.log for appender File
+ org.apache.logging.log4j.core.appender.AppenderLoggingException: Error writing to RandomAccessFile logs/latest.log
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:228)
+	at org.apache.logging.log4j.core.appender.OutputStreamManager.flushBuffer(OutputStreamManager.java:296)
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:259)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.directEncodeEvent(AbstractOutputStreamAppender.java:229)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.tryAppend(AbstractOutputStreamAppender.java:220)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.append(AbstractOutputStreamAppender.java:211)
+	at org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender.append(RollingRandomAccessFileAppender.java:275)
+	at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:160)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:133)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:124)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:88)
+	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:705)
+	at org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:663)
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:639)
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:575)
+	at org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:92)
+	at org.apache.logging.log4j.core.Logger.log(Logger.java:169)
+	at org.apache.logging.log4j.spi.AbstractLogger.tryLogMessage(AbstractLogger.java:2933)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageTrackRecursion(AbstractLogger.java:2886)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2868)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2675)
+	at org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:2442)
+	at org.apache.logging.slf4j.Log4jLogger.error(Log4jLogger.java:303)
+	at eql.a(SourceFile:48)
+	at eqz.b(SourceFile:127)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at eqz.a(SourceFile:125)
+	at aqu.av(SourceFile:833)
+	at aqu.a(SourceFile:815)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:556)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:580)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:924)
+	at net.minecraft.server.MinecraftServer.y(SourceFile:697)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:281)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: Stream Closed
+	at java.base/java.io.RandomAccessFile.writeBytes0(Native Method)
+	at java.base/java.io.RandomAccessFile.writeBytes(RandomAccessFile.java:572)
+	at java.base/java.io.RandomAccessFile.write(RandomAccessFile.java:602)
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:224)
+	... 34 more
+ERROR StatusConsoleListener An exception occurred processing Appender File
+ org.apache.logging.log4j.core.appender.AppenderLoggingException: Error writing to RandomAccessFile logs/latest.log
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:228)
+	at org.apache.logging.log4j.core.appender.OutputStreamManager.flushBuffer(OutputStreamManager.java:296)
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:259)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.directEncodeEvent(AbstractOutputStreamAppender.java:229)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.tryAppend(AbstractOutputStreamAppender.java:220)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.append(AbstractOutputStreamAppender.java:211)
+	at org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender.append(RollingRandomAccessFileAppender.java:275)
+	at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:160)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:133)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:124)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:88)
+	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:705)
+	at org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:663)
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:639)
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:575)
+	at org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:92)
+	at org.apache.logging.log4j.core.Logger.log(Logger.java:169)
+	at org.apache.logging.log4j.spi.AbstractLogger.tryLogMessage(AbstractLogger.java:2933)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageTrackRecursion(AbstractLogger.java:2886)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2868)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2675)
+	at org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:2442)
+	at org.apache.logging.slf4j.Log4jLogger.error(Log4jLogger.java:303)
+	at eql.a(SourceFile:48)
+	at eqz.b(SourceFile:127)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at eqz.a(SourceFile:125)
+	at aqu.av(SourceFile:833)
+	at aqu.a(SourceFile:815)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:556)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:580)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:924)
+	at net.minecraft.server.MinecraftServer.y(SourceFile:697)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:281)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: Stream Closed
+	at java.base/java.io.RandomAccessFile.writeBytes0(Native Method)
+	at java.base/java.io.RandomAccessFile.writeBytes(RandomAccessFile.java:572)
+	at java.base/java.io.RandomAccessFile.write(RandomAccessFile.java:602)
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:224)
+	... 34 more
+[14:42:06] [Server thread/ERROR]: Could not save data cok@977f2a3
+java.nio.file.AccessDeniedException: ./farmen/DIM-1/data/raids.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at uo.a(SourceFile:71) ~[server-1.21.jar:?]
+	at eql.a(SourceFile:46) ~[server-1.21.jar:?]
+	at eqz.b(SourceFile:127) ~[server-1.21.jar:?]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at eqz.a(SourceFile:125) ~[server-1.21.jar:?]
+	at aqu.av(SourceFile:833) ~[server-1.21.jar:?]
+	at aqu.a(SourceFile:815) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:556) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:580) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:924) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:697) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+ERROR StatusConsoleListener Unable to write to stream logs/latest.log for appender File
+ org.apache.logging.log4j.core.appender.AppenderLoggingException: Error writing to RandomAccessFile logs/latest.log
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:228)
+	at org.apache.logging.log4j.core.appender.OutputStreamManager.flushBuffer(OutputStreamManager.java:296)
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:259)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.directEncodeEvent(AbstractOutputStreamAppender.java:229)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.tryAppend(AbstractOutputStreamAppender.java:220)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.append(AbstractOutputStreamAppender.java:211)
+	at org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender.append(RollingRandomAccessFileAppender.java:275)
+	at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:160)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:133)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:124)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:88)
+	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:705)
+	at org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:663)
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:639)
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:575)
+	at org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:92)
+	at org.apache.logging.log4j.core.Logger.log(Logger.java:169)
+	at org.apache.logging.log4j.spi.AbstractLogger.tryLogMessage(AbstractLogger.java:2933)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageTrackRecursion(AbstractLogger.java:2886)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2868)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2675)
+	at org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:2442)
+	at org.apache.logging.slf4j.Log4jLogger.error(Log4jLogger.java:303)
+	at eql.a(SourceFile:48)
+	at eqz.b(SourceFile:127)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at eqz.a(SourceFile:125)
+	at aqu.av(SourceFile:833)
+	at aqu.a(SourceFile:815)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:556)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:580)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:924)
+	at net.minecraft.server.MinecraftServer.y(SourceFile:697)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:281)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: Stream Closed
+	at java.base/java.io.RandomAccessFile.writeBytes0(Native Method)
+	at java.base/java.io.RandomAccessFile.writeBytes(RandomAccessFile.java:572)
+	at java.base/java.io.RandomAccessFile.write(RandomAccessFile.java:602)
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:224)
+	... 34 more
+ERROR StatusConsoleListener An exception occurred processing Appender File
+ org.apache.logging.log4j.core.appender.AppenderLoggingException: Error writing to RandomAccessFile logs/latest.log
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:228)
+	at org.apache.logging.log4j.core.appender.OutputStreamManager.flushBuffer(OutputStreamManager.java:296)
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:259)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.directEncodeEvent(AbstractOutputStreamAppender.java:229)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.tryAppend(AbstractOutputStreamAppender.java:220)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.append(AbstractOutputStreamAppender.java:211)
+	at org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender.append(RollingRandomAccessFileAppender.java:275)
+	at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:160)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:133)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:124)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:88)
+	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:705)
+	at org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:663)
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:639)
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:575)
+	at org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:92)
+	at org.apache.logging.log4j.core.Logger.log(Logger.java:169)
+	at org.apache.logging.log4j.spi.AbstractLogger.tryLogMessage(AbstractLogger.java:2933)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageTrackRecursion(AbstractLogger.java:2886)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2868)
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2675)
+	at org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:2442)
+	at org.apache.logging.slf4j.Log4jLogger.error(Log4jLogger.java:303)
+	at eql.a(SourceFile:48)
+	at eqz.b(SourceFile:127)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at eqz.a(SourceFile:125)
+	at aqu.av(SourceFile:833)
+	at aqu.a(SourceFile:815)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:556)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:580)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:924)
+	at net.minecraft.server.MinecraftServer.y(SourceFile:697)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:281)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: Stream Closed
+	at java.base/java.io.RandomAccessFile.writeBytes0(Native Method)
+	at java.base/java.io.RandomAccessFile.writeBytes(RandomAccessFile.java:572)
+	at java.base/java.io.RandomAccessFile.write(RandomAccessFile.java:602)
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:224)
+	... 34 more
+[14:42:06] [Server thread/ERROR]: Could not save data cok@1db0737b
+java.nio.file.AccessDeniedException: ./farmen/DIM1/data/raids_end.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at uo.a(SourceFile:71) ~[server-1.21.jar:?]
+	at eql.a(SourceFile:46) ~[server-1.21.jar:?]
+	at eqz.b(SourceFile:127) ~[server-1.21.jar:?]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at eqz.a(SourceFile:125) ~[server-1.21.jar:?]
+	at aqu.av(SourceFile:833) ~[server-1.21.jar:?]
+	at aqu.a(SourceFile:815) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:556) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:580) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:924) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:697) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[14:42:06] [Server thread/ERROR]: Failed to save level ./farmen
+java.nio.file.AccessDeniedException: ./farmen/level8320605078917591993.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.base/java.nio.file.Files.createFile(Files.java:657) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.create(TempFileHelper.java:136) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.createTempFile(TempFileHelper.java:159) ~[?:?]
+	at java.base/java.nio.file.Files.createTempFile(Files.java:878) ~[?:?]
+	at erf$c.a(SourceFile:463) ~[server-1.21.jar:?]
+	at erf$c.a(SourceFile:457) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:563) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:580) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:924) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:697) ~[server-1.21.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
